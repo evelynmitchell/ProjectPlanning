@@ -12,6 +12,19 @@ Mocha
 
 End to end testing 
 Cypress 
+Playwright
+testcafe [title](https://testcafe.io/)
+https://github.com/DevExpress/testcafe
+
+
+[title](https://playwright.dev/python/)
+
+
+[https://new.pythonforengineers.com/blog/web-automation-dont-use-selenium-use-playwright/
+]
+The killer feature of Playwright is: You can automatically generate tests by opening a web browser and manually running through the steps you want.
+
+
 
 # Testing concepts
 
